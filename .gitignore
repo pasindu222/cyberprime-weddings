@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.tsbuildinfo
+
+# RSVP responses saved locally by /api/rsvp (contains guest data)
+data/
